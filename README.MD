@@ -24,9 +24,9 @@
 
 <hr />
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabbokki&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabbokki&show_icons=true&theme=radical)
 
 </div>
 

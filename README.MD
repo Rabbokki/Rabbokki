@@ -46,13 +46,13 @@
 [![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)]()
 
 <hr />
-
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=Rabbokki&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabbokki&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 
   
 

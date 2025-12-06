@@ -1,4 +1,6 @@
-
+ <div class="header">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=436b95&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="YeonJin's GitHub">
+    </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:15c13d,100:fcfcfc&height=180&text=HelloWorld&animation=&fontColor=414942&fontSize=50" />
 <div align= "center">

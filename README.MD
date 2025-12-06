@@ -2,7 +2,7 @@
 ### 3000🌒🌓🌔
 <hr />
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:15c13d,100:fcfcfc&height=180&text=Rang.dev&animation=&fontColor=414942&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:15c13d,100:fcfcfc&height=180&text=Hi&animation=&fontColor=414942&fontSize=50" />
 </div>
 
 
@@ -50,7 +50,8 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=Rabbokki&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue
+
 </div>
 
   

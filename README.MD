@@ -23,12 +23,6 @@
 </p>
 
 <hr />
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbokki&show_icons=true&theme=radical)
-
-</div>
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
@@ -42,10 +36,3 @@
   </div>
 </div>
 
-  
-
-  
-<!---
-JooLegend/JooLegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -19,6 +19,9 @@
 <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/:format/:packageName">
 
 https://img.shields.io/bundlephobia/:format/:packageName
+![npm bundle size](https://img.shields.io/bundlephobia/:format/:packageName)
+![npm bundle size](https://img.shields.io/bundlephobia/:format/:packageName)
+
 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 

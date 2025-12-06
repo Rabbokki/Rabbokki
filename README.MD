@@ -1,12 +1,8 @@
 
 ### 3000🌒🌓🌔
 <hr />
-
-<div align = center>
-  
   
 ## 📚Tech Stack📚
-## 🛠️ Tech Stacks
 
 ### 🧠 AI / ML
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)]()

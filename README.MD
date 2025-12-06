@@ -6,8 +6,8 @@
 </div>
 
 
-## 📚Tech Stack📚
-
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
 ### 🧠 AI / ML
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)]()
@@ -44,6 +44,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)]()
+</p>
 
 <hr />
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>

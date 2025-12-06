@@ -1,8 +1,10 @@
 
 ### 3000🌒🌓🌔
 <hr />
+<div align = center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20am%20better%20man%20than%20who%20I%20was%20yesterday&fontSize=20&animation=fadeIn&customColorList=2)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)  
+</div>
 
 
 ## 📚Tech Stack📚

@@ -1,7 +1,8 @@
 
 ### 3000🌒🌓🌔
 <hr />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/java-FF81F9?style=flat"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20am%20better%20man%20than%20who%20I%20was%20yesterday&fontSize=20&animation=fadeIn&customColorList=2)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)  
 
 
 ## 📚Tech Stack📚

@@ -4,7 +4,7 @@
 <div align= "center">
     <h2 style=color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> 
-        
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
          <a href=mailto:lyjduswls0307@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:j55267035@gmail.com"> </a>
          <a href="mailto:lyjduswls37@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:ehenr2003@naver.com"> </a>
           </div><br>

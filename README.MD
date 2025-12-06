@@ -6,44 +6,21 @@
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-
-  ### 🧠 AI / ML
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)]()
-  [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)]()
-  [![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white)]()
-  [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white)]()
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
-  
-  ### 🔧 Server / Language
-  [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)]()
-  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)]()
-  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)]()
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <br>
-  
-  ### 🗄️ Database
-  [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)]()
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)]()
-  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)]()
-  <br>
-  
-  ### 🎨 Front-End
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)]()
-  [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white)]()
-  [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)]()
-  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)]()
-  <br>
-  
-  ### ⚙️ DevOps / Infra
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)]()
-  [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)]()
-  <br>
-  
-  ### 🤝 Collaboration
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)]()
-  [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)]()
-  [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)]()
-  [![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)]()
-</div>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
+</p>
 
 <hr />
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
